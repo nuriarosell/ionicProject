@@ -1,5 +1,6 @@
 [
     {
+      "id": 1,
       "titulo": "El señor de los anillos",
       "autor": "J.R.R. Tolkien",
       "genero": "Fantasía",
@@ -7,6 +8,7 @@
       "paginas": 1178
     },
     {
+      "id": 2,
       "titulo": "Cien años de soledad",
       "autor": "Gabriel García Márquez",
       "genero": "Realismo mágico",
@@ -14,6 +16,7 @@
       "paginas": 417
     },
     {
+      "id": 3,
       "titulo": "1984",
       "autor": "George Orwell",
       "genero": "Distopía",
@@ -21,6 +24,7 @@
       "paginas": 328
     },
     {
+      "id": 4,
       "titulo": "Orgullo y prejuicio",
       "autor": "Jane Austen",
       "genero": "Romance",
@@ -28,6 +32,7 @@
       "paginas": 432
     },
     {
+      "id": 5,
       "titulo": "Harry Potter y la piedra filosofal",
       "autor": "J.K. Rowling",
       "genero": "Fantasía",
